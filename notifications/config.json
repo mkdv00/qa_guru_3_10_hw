@@ -1,9 +1,9 @@
 {
   "base": {
     "logo": "",
-    "project": "some project",
-    "environment": "some env",
-    "comment": "some comment",
+    "project": "Kudaev project",
+    "environment": "develop",
+    "comment": "My comment",
     "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report/",
